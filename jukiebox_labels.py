@@ -20,10 +20,12 @@ paper_height_inch = 11
 cell_width_inch = 3
 cell_height_inch = 1
 
-space_between_columns_inch = 0.833333
-top_margin_inch = 0.5
-left_margin_inch = 0.833333
+# Uncomment this if the two columns are separated
+#space_between_columns_inch = 0.833333
+#top_margin_inch = 0.5
+#left_margin_inch = 0.833333
 
+# Uncomment this if the two columns are adjacent
 space_between_columns_inch = 0
 top_margin_inch = 0.5
 left_margin_inch = 1.25
